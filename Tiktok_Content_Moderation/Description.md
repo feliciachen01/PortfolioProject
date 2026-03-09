@@ -46,6 +46,8 @@ Logistic Regression, Feature Engineering, EDA
 Power BI dashboard summarizing key findings across content distribution, 
 moderation patterns, and engagement behavior by claim type.
 
+<img width="1993" height="1120" alt="Screenshot 2026-03-08 220150" src="https://github.com/user-attachments/assets/d00c57bd-82ad-4a39-b711-13fd3c28e01b" />
+
 ## Key Insights
 - Claim videos generate 51% higher like rates than opinion videos
 - Claim authors are 4x more likely to be banned or under review
